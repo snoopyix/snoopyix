@@ -36,10 +36,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Back-End+Java+%2B+Python;Clean+Code+%2B+Performance;POO+%2B+Sistemas+Escal%C3%A1veis;Engenharia+com+Alma+de+Produto" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Back-End+Java+%2B+Python;Clean+Code+%2B+Performance;POO+%2B+Sistemas+Escal%C3%A1veis;Engenharia+com+Alma+de+Produto" />
 </p>
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Gabriel%20Santos&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=SNOOPYIX&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </h1>
 
 
@@ -76,12 +76,12 @@ Comprometido em aprender os fundamentos que sustentam softwares de alto impacto.
 ### 🛠️ Tecnologias & Stack
 Para construir aplicações eficientes, utilizo as seguintes linguagens e tecnologias:
 
-![Java](https://img.shields.io/badge/Java-2ea44f?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2ea44f?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2ea44f?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-2ea44f?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-2ea44f?style=for-the-badge&logo=css3&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-2ea44f?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-DC143C?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-DC143C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-DC143C?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-DC143C?style=for-the-badge&logo=css3&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-DC143C?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
@@ -98,11 +98,11 @@ Meu ecossistema de desenvolvimento focado em produtividade e qualidade:
 ### 🎨 Design & Visual
 Habilidades criativas que complementam meu perfil técnico, permitindo a criação de interfaces modernas e assets visuais:
 
-![Figma](https://img.shields.io/badge/Figma-2ea44f?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-2ea44f?style=for-the-badge&logo=Canva&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-2ea44f?style=for-the-badge&logo=Aseprite&logoColor=white)
-![GIMP](https://img.shields.io/badge/GIMP-2ea44f?style=for-the-badge&logo=gimp&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-2ea44f?style=for-the-badge&logo=Krita&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-DC143C?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-DC143C?style=for-the-badge&logo=Canva&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-DC143C?style=for-the-badge&logo=Aseprite&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-DC143C?style=for-the-badge&logo=gimp&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-DC143C?style=for-the-badge&logo=Krita&logoColor=white)
 
 ---
 ---
