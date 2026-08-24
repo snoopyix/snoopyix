@@ -7,7 +7,7 @@
      wordmark: python scripts/make_wordmark_svg.py --mode rock
      how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-<h3><code>HAZURE@github ~ $ whoami</code></h3>
+<h3><code>RAINHADOPRIVACY@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -22,7 +22,7 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>HAZURE@github ~ $ ./links.sh</code></h3>
+<h3><code>rainhadoprivacy@github ~ $ ./links.sh</code></h3>
 
 <p><b>Automation Developer · AI Builder · Rookieb></p>
 
