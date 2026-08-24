@@ -7,7 +7,7 @@
      wordmark: python scripts/make_wordmark_svg.py --mode rock
      how the wordmark is built: docs/3d-ascii-wordmark.md -->
 
-<h3><code>RAINHADOPRIVACY@github ~ $ whoami</code></h3>
+<h3><code>snoopyix@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
@@ -22,12 +22,12 @@
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>rainhadoprivacy@github ~ $ ./links.sh</code></h3>
+<h3><code>snoopyix@github ~ $ ./links.sh</code></h3>
 
 <p><b>Automation Developer · AI Builder · Rookieb></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raphael_Dias-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-dias-081836345/)
-[![Instagram](https://img.shields.io/badge/Instagram-036donascimento-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/036donascimento/)
+
+
 
 <br>
 
