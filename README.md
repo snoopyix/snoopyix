@@ -39,7 +39,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Back-End+Java+%2B+Python;Clean+Code+%2B+Performance;POO+%2B+Sistemas+Escal%C3%A1veis;Engenharia+com+Alma+de+Produto" />
 </p>
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C11C84&height=180&section=header&text=SNOOPYIX&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0022&height=180&section=header&text=SNOOPYIX&fontColor=ffffff&fontSize=40&animation=fadeIn&fontAlignY=35" />
 </h1>
 
 
